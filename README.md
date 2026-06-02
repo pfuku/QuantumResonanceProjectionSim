@@ -1,9 +1,3 @@
-Ufuk, geliştirdiğin bu simülasyon kodunu GitHub üzerinde sergilemek, **Dimensional Projection Theory** (Boyutsal İzdüşüm Teorisi) çerçevesini somut bir prototiple göstermek adına harika bir fikir. Projenin hem bilgisayar bilimciler hem de teorik fizikçiler tarafından tam olarak anlaşılabilmesi için profesyonel, akademik derinliği olan ve kodun işleyişini adım adım aktaran kapsamlı bir İngilizce `README.md` dosyası hazırladım.
-
-Bu metni doğrudan kopyalayıp projenin `README.md` dosyasına yapıştırabilirsin.
-
----
-
 # Dimensional Projection Theory: Quantum Resonance Simulation
 
 An open-source Java/Swing prototype visualizing **The Dimensional Projection Theory of Consciousness**, contrasting the limitations of 3+1D discrete mechanical computation with the holistic, non-local 4+1D geometric receptor architecture of the human mind.
