@@ -29,9 +29,9 @@ The application initializes a split-screen interface running a real-time coordin
 |                                       |                                       |
 |        3+1D CLASSIC TIMELINE          |         4+1D RESONANCE PATTERN        |
 |                                       |                                       |
-|  [t=4.2] Checked N=14 (14=3+11) -> F  |      .  : * . .. * .  . . : .        |
-|  [t=4.3] Checked N=16 (16=3+13) -> F  |    . * . : : Fractal Attractor  . * |
-|  [t=4.4] Checked N=18 (18=5+13) -> F  |      : . . : Holographic Cloud * .    |
+|  [t=4.2] Checked N=14 (14=3+11) -> F  |      .........................        |
+|  [t=4.3] Checked N=16 (16=3+13) -> F  |      ... Fractal Attractor            |
+|  [t=4.4] Checked N=18 (18=5+13) -> F  |      ... Holographic Cloud            |
 |                                       |                                       |
 +---------------------------------------+---------------------------------------+
 
