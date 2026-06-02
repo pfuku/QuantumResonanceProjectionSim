@@ -1,5 +1,7 @@
 # Dimensional Projection Theory: Quantum Resonance Simulation
 
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 An open-source Java/Swing prototype visualizing **The Dimensional Projection Theory of Consciousness**, contrasting the limitations of 3+1D discrete mechanical computation with the holistic, non-local 4+1D geometric receptor architecture of the human mind.
 
 Authored by **Ufuk Tiryaki** (May 2026).
